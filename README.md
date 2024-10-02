@@ -61,5 +61,5 @@ Definitions:
 
 **Repository** 
  - Researched definition: a collections of files from various versions of a Project
-My definition: Where the code and files are stored
+ - My definition: Where the code and files are stored
 
