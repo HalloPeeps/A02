@@ -14,6 +14,7 @@ Github tutorial!!!! :D
 
 
 Definitions:
+
 **Branch**
 Researched definition: a separate, independent version of the main codebase that allows developers to work on a project without affecting the main.
 My definition: A seperate portion of the main used to develop different features separately, test code, and undo changes without directly making changes to the main.
