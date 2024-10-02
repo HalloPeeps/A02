@@ -14,15 +14,15 @@ Github tutorial!!!! :D
 
 
 Definitions:
-**Branch **
+**Branch**
 Researched definition: a separate, independent version of the main codebase that allows developers to work on a project without affecting the main.
 My definition: A seperate portion of the main used to develop different features separately, test code, and undo changes without directly making changes to the main.
 
-**Clone **
+**Clone**
 Researched definition: the process of copying an existing repository to a new location, either on the local machine or on a remote server.
 My definition: a copy and paste of an existing item. mainly used when creating backups, troubleshoot testing, adding, or modifying existing content.
 
-**Commit **
+**Commit**
 Researched definition: a snapshot of a project's state at a specific point in time.
 My definition: an individual save of a changed file.
 
@@ -30,7 +30,7 @@ My definition: an individual save of a changed file.
 Researched definition: downloads files, commits, and references from a remote repository into a local repository without merging them into the working directory.
 My definition: a command to download contents from a repository.
 
-**GIT **
+**GIT**
 Researched definition: a free, open-source version control system (VCS) that helps software development teams track changes to their code.
 My definition: A system that saves and keeps track of code.
 
