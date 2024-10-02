@@ -58,8 +58,9 @@ Definitions:
 **Remote**
  - Researched definition: a Git repository that's hosted on the Internet or another network.
  - My definition: a repository that is held on the internet or an off-site server that isnt local.
-
+   
 **Repository** 
  - Researched definition: a collections of files from various versions of a Project
  - My definition: Where the code and files are stored
 
+Website I used to get these definitions: https://www.atlassian.com/git
